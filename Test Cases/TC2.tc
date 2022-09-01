@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6da69446-6b6e-47a0-91a2-f06db8d25ec5</testCaseGuid>
+   <variable>
+      <defaultValue>'company'</defaultValue>
+      <description></description>
+      <id>3519eb9b-88ac-4e54-a504-c9ffe09f64fb</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'company'</defaultValue>
+      <description></description>
+      <id>de3bb383-1bbe-47c8-9a3b-6ac7b71dd99f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
